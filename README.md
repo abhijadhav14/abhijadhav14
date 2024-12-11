@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🚀My Skills:</p>
+<h3 align="left">🚀My Skills:</h3>
 
 ###
 
@@ -44,19 +44,19 @@
 
 ###
 
-<p align="left">📥Contact me:</p>
+<h3 align="left">📥Contact me:</h3>
 
 ###
 
 <div align="left">
-  <a href="abhinjadhav14@gmail.com" target="_blank">
+  <a href="abhinjadhav14@gmail.com" target="mailto:abhinjadhav14@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<p align="left">📊GitHub Stats:</p>
+<h3 align="left">📊GitHub Stats:</h3>
 
 ###
 
